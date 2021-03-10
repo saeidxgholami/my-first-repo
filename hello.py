@@ -1,4 +1,3 @@
-print('hello world!')
 
 
 x = 0
@@ -10,3 +9,4 @@ elif x < 0:
 else:
 	print('zero')
 
+print('new line.')
